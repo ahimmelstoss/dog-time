@@ -1,0 +1,86 @@
+@font-face {
+  font-family: sans-serif;
+  src: url(../fonts/Ubuntu-Title.ttf);
+}
+
+body {
+  background-color: #202729;
+  margin: 0;
+}
+
+.video {
+  width: 100%;
+}
+
+.video-div {
+  position: relative;
+}
+
+.facts {
+  position: absolute;
+  z-index: 10;
+  left: 10%;
+  right: 10%;
+  top: 70%;
+  text-shadow: 2px 2px grey;
+  color: #44749D;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.date-time {
+  font-weight: bold;
+}
+
+.date {
+  font-size: 50px;
+}
+
+.time {
+  font-size: 80px;
+}
+
+#dog {
+  font-size: 30px;
+  margin: 0;
+  text-decoration: underline;
+}
+
+#dog-fact {
+  font-size: 30px;
+  margin: 0;
+}
+
+#right {
+  position: absolute;
+  z-index: 10;
+  left: 97%;
+  margin: 0; 
+}
+
+#heart {
+  font-size: 30px;
+  color: #E663A1;
+  text-decoration: none;
+}
+
+#heart:hover {
+  color: pink;
+}
+
+#left {
+  position: absolute;
+  z-index: 10;
+  right: 98%;
+  margin: 0;
+}
+
+#flatiron {
+  font-size: 25px;
+  color: #19BFE8;
+  text-decoration: none;
+}
+
+#flatiron:hover {
+  color: #BAECF8;
+}
