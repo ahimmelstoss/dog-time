@@ -1,6 +1,18 @@
 var dogVideos = [
   "http://media.giphy.com/media/KFTBYZP5xrdZK/giphy.mp4",
-  "http://media.giphy.com/media/4K7i31h4bAVq/giphy.mp4"
+  "http://media.giphy.com/media/4K7i31h4bAVq/giphy.mp4",
+  "http://media.giphy.com/media/KrHJDG6QqinPW/giphy.mp4",
+  "http://media.giphy.com/media/7K4YsGrSMO8CY/giphy.mp4",
+  "http://media.giphy.com/media/tNuoOEz7cigvK/giphy.mp4",
+  "http://media.giphy.com/media/fPirIowUhqb6w/giphy.mp4",
+  "http://media.giphy.com/media/tP3Tu61F2RBZe/giphy.mp4",
+  "http://media.giphy.com/media/12b3E4U9aSndxC/giphy.mp4",
+  "http://media.giphy.com/media/8Ow0GB3YJ7HFe/giphy.mp4",
+  "http://media.giphy.com/media/cBTuHHvv5iqac/giphy.mp4",
+  "http://media.giphy.com/media./wG3jhHKvoCCVG/giphy.mp4",
+  "http://media.giphy.com/media/yoJC2LTvmB70IltllK/giphy.mp4",
+  "http://media.giphy.com/media/DIrGyd84DwA48/giphy.mp4",
+  "http://media.giphy.com/media/UIIyMCABbnUAg/giphy.mp4"
 ]
 
 function displayRandomVideo() {
