@@ -22,7 +22,7 @@ var dogVideos = [
   "http://media.giphy.com/media/vGo2sgzeC8r60/giphy.mp4",
   "http://media.giphy.com/media/JxuBBMH9gcJt6/giphy.mp4",
   "http://media.giphy.com/media/cIQkxw4G65TG/giphy.mp4"
-]
+];
 
 function displayRandomVideo() {
   var randomIndex = Math.floor((Math.random() * dogVideos.length));
