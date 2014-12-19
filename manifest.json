@@ -3,7 +3,7 @@
 
   "name": "Dog Time",
   "description": "Dog Time gives an amusing playful dog video with each new tab load, along with some helpful information.",
-  "version": "1.2",
+  "version": "1.3",
   "incognito": "split",
   "chrome_url_overrides": {
     "newtab": "public/index.html"
