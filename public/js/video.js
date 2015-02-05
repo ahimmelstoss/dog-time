@@ -10,7 +10,15 @@ var dogVideos = [
   "http://media.giphy.com/media/TlK63Eu30qmf8s1YtCE/giphy.mp4",
   "http://media.giphy.com/media/5xaOcLEkgGRhzFATWec/giphy.mp4",
   "http://media.giphy.com/media/TlK63ExaNVzoa1l916w/giphy.mp4",
-  "http://media.giphy.com/media/TlK63EHvT6MOVsSpwOc/giphy.mp4"
+  "http://media.giphy.com/media/TlK63EHvT6MOVsSpwOc/giphy.mp4",
+  "http://media.giphy.com/media/lXiRwaHfqPRrxPBHG/giphy.mp4",
+  "http://media.giphy.com/media/yoJC2FB0ezkdQTkaCk/giphy.mp4",
+  "http://media.giphy.com/media/3rgXBtofv9Eah67z7W/giphy.mp4",
+  "http://media.giphy.com/media/3rgXBFwiTeooZ4NHGg/giphy.mp4",
+  "http://media.giphy.com/media/yoJC2ksCkwhrpANPuo/giphy.mp4",
+  "http://media.giphy.com/media/3rgXBFWi6x9uRN5q9y/giphy.mp4",
+  "http://media.giphy.com/media/yoJC2ixW6P7o2Z7bB6/giphy.mp4"
+
 ];
 
 // var oldVideos = [
